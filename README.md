@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakob-alt
 - 👀 I’m interested in Gaming and everything Travel related
-- 🌱 I’m currently learning C# and ABAP
+- 🌱 I’m currently learning C#, C, JavaScript, ABAP
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Pigeon
 - 😄 Pronouns: He/Him
