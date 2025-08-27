@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Pigeon
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Gingers do have souls
 
 <!---
 Jakob-alt/Jakob-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
