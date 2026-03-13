@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Jakob-alt
-- 👀 I’m interested in Gaming and everything Travel related
-- 🌱 I’m currently learning C#, C, JavaScript, ABAP
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me Pigeon
-- 😄 Pronouns: He/Him
+- Hi, I’m @Jakob-alt
+- I’m looking to collaborate on anything
+- Pronouns: He/Him
 
 <!---
 Jakob-alt/Jakob-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
